@@ -1,4 +1,4 @@
-# SyncIn
+# TunesUp
 Music Player using Emotion Recognition
 
 This is a project based on the concept of Computer Vision and Emotion detection. In this project, I have used computer vision to detect the emotion a person is exhibiting. Through the emotion detected, the system shall identify a song playlist according to the mood of the user.
